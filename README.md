@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @saed-gpr
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me in telegram:@hamdanesh_com youtube:hamsanesh aparat:hamdanesh
 
 <!---
