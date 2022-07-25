@@ -3,7 +3,6 @@
 - 👋 Hi, I’m :alien: @saed-gpr :alien:
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python
-- 📫 How to reach me in telegram:@hamdanesh_com youtube:hamsanesh aparat:hamdanesh
 - 🛡 I want to creat a safe world!!
 - 🤓 learning about computer is very enjoyable for me
 
