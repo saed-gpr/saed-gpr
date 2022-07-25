@@ -1,8 +1,8 @@
 # about me
 
 - 👋 Hi, I’m :alien: @saed-gpr :alien:
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning python
+- 👨‍💻 I’m interested in programming
+- :snake: I’m currently learning python
 - 🛡 I want to creat a safe world!!
 - 🤓 learning about computer is very enjoyable for me
 
