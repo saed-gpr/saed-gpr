@@ -7,8 +7,10 @@
 - 🤓 learning about computer is very enjoyable for me
 
 # list of tools
-
-- [keylogger](https://github.com/saed-gpr/key_logger/)
+| ID |  Name   | Description |  Language  |
+| -- | ------  |  ---------  |  --------  |
+|  1 |  [Keylogger](https://github.com/saed-gpr/key_logger/)  | This program can understand what the target is typing and then send it to you in Telegram | Python |
+|  2 |  [Folder Bomber](https://github.com/saed-gpr/folder-bomber) | This tool can create folders until the target system slows down | Python |
 
 # contact me
 
