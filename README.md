@@ -12,6 +12,8 @@
 |  1 |  [Keylogger](https://github.com/saed-gpr/key_logger/)  | This program can understand what the target is typing and then send it to you in Telegram | Python |
 |  2 |  [Folder Bomber](https://github.com/saed-gpr/folder-bomber) | This tool can create folders until the target system slows down | Python |
 |  3 |  [File Deleter](https://github.com/saed-gpr/file-deleter) | File Deleter can delete all file (or just .psd file or another files)!! you can open the "file deleter.py" with vscode and edit it how you like! | Python |
+|  4 |  [Ransomware](https://github.com/saed-gpr/ransomware) | Ransomware can lock the target's programs until the target pays the hacker.  | Python |
+
 
 # contact me
 
