@@ -15,13 +15,26 @@
 |  4 |  [Ransomware](https://github.com/saed-gpr/ransomware) | Ransomware can lock the target's programs until the target pays the hacker.  | Python |
 
 
-# contact me
 
-:boom: coming soon!! :boom:
 
-# donate
+# my skills
 
-:money_mouth_face: soon :money_mouth_face:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,linux,bash" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=raspberrypi,arduino,github" />
+  </a>
+</p>
+
+
+
+
+
+
 <!---
 saed-gpr/saed-gpr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
