@@ -21,16 +21,21 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,linux,bash" />
+    <img src="https://skillicons.dev/icons?i=django,py,linux" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=raspberrypi,arduino,github" />
+    <img src="https://skillicons.dev/icons?i=raspberrypi,bash,github" />
   </a>
 </p>
 
-
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arduino" />
+  </a>
+</p>
 
 
 
