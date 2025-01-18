@@ -6,7 +6,7 @@
 - 🛡 I want to creat a safe world!!
 - 🤓 learning about computer is very enjoyable for me
 
-# list of tools
+# projects
 | ID |  Name   | Description |  Language  |
 | -- | ------  |  ---------  |  --------  |
 |  1 | <div align="center"> [Keylogger](https://github.com/saed-gpr/key_logger/) </div> |<div align="center"> This program can understand what the target is typing and then send it to you in Telegram </div>| Python |
