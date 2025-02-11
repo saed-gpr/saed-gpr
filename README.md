@@ -22,7 +22,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,py,linux" />
+    <img src="https://skillicons.dev/icons?i=arduino,py,linux" />
   </a>
 </p>
 <p align="center">
@@ -31,12 +31,6 @@
   </a>
 </p>
 
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino" />
-  </a>
-</p>
 
 
 
