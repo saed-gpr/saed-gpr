@@ -1,4 +1,11 @@
 # Saed Gholipour 
+
+<div align='center'>
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=30&duration=2000&pause=500&color=%23%23569CD6&center=true&width=435&lines=Saed+Gholipour;Programmer)](https://git.io/typing-svg)
+</div>
+
+
 #### My skills:
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
