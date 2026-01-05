@@ -20,9 +20,27 @@
 
 
 
+
+
+
+
 </hr>
 
 ### contact me :
 <a href = 'https://saedgholipour.ir'>![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)</a> <a href='https://linkedin.com/in/saed-gholipour'>![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href = 'https://github.com/saed-gpr'>![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)</a>
 
 </div>
+
+
+
+# 📊 GitHub Stats:
+
+<div align = 'center'>
+
+![](https://github-readme-stats.vercel.app/api?username=saed-gpr&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=saed-gpr&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=saed-gpr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+</div>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
