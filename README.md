@@ -26,7 +26,7 @@
 
 </hr>
 
-### contact me :
+### Contact Me :
 <a href = 'https://saedgholipour.ir'>![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)</a> <a href='https://linkedin.com/in/saed-gholipour'>![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href = 'https://github.com/saed-gpr'>![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)</a>
 
 </div>
