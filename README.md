@@ -46,24 +46,3 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-
-name: GitHub Profile Summary Cards
-
-on:
-  schedule: 
-    - cron: "0 0 * * *"
-  workflow_dispatch: 
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    name: generate
-
-    steps:
-      - uses: actions/checkout@v3
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          USERNAME: saed-gpr # یوزرنیم شما
-          BRANCH_NAME: main
-          OUTPUT_REPOSITORY: saed-gpr/profile-summary-cards-output
