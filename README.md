@@ -1,11 +1,12 @@
+<div align='center'>
+  
 # Saed Gholipour 
 
 
-<div align='center'>
+
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=30&duration=2000&pause=500&color=%23%23569CD6&center=true&width=435&lines=LICDev\(saed\);programmer)](https://git.io/typing-svg)
-</div>
-<div align = 'center'>
+
   
 ### My Skills:
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -30,15 +31,18 @@
 ### Contact Me :
 <a href = 'https://saedgholipour.ir'>![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)</a> <a href='https://linkedin.com/in/saed-gholipour'>![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href = 'https://github.com/saed-gpr'>![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)</a>
 
-</div>
+
 
 
 
 # 📊 GitHub Stats:
 
-<div align = 'center'>
+
   
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=saed-gpr&rank_icon=github&show_icons=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=saed-gpr&rank_icon=github&show_icons=true&include_all_commits=true&theme=dark)[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=saed-gpr&layout=donut&langs_count=4&hide_values=true&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=saed-gpr&layout=donut&langs_count=4&hide_values=true&theme=dark)
+
+# 🔥 Top Repositories
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=saed-gpr&repo=saed-gpr/flask-todo-api&show_owner=true&description_lines_count=1&theme=dark)](https://github.com/saed-gpr/flask-todo-api)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=saed-gpr&repo=saed-gpr/API-key-management&show_owner=true&theme=dark)](https://github.com/saed-gpr/API-key-management)
 
 </div>
