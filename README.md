@@ -37,12 +37,8 @@
 # 📊 GitHub Stats:
 
 <div align = 'center'>
-
-![](https://github-readme-stats.vercel.app/api?username=saed-gpr&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=saed-gpr&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=saed-gpr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=saed-gpr&rank_icon=github&show_icons=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=saed-gpr&rank_icon=github&show_icons=true&include_all_commits=true&theme=dark)[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=saed-gpr&layout=donut&langs_count=4&hide_values=true&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=saed-gpr&layout=donut&langs_count=4&hide_values=true&theme=dark)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=saed-gpr&repo=saed-gpr/flask-todo-api&show_owner=true&description_lines_count=1&theme=dark)](https://github.com/saed-gpr/flask-todo-api)
 
 </div>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
