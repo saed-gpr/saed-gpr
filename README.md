@@ -44,5 +44,6 @@
 # 🔥 Top Repositories
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=saed-gpr&repo=saed-gpr/flask-todo-api&show_owner=true&description_lines_count=1&theme=dark)](https://github.com/saed-gpr/flask-todo-api)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=saed-gpr&repo=saed-gpr/API-key-management&show_owner=true&theme=dark)](https://github.com/saed-gpr/API-key-management)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=saed-gpr&repo=saed-gpr/FastAPI-Todo&show_owner=true&theme=dark)](https://github.com/saed-gpr/FastAPI-Todo)
 
 </div>
